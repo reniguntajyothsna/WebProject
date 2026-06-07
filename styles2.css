@@ -1,0 +1,991 @@
+.mainv1{
+    height:10vh;
+    width:100vw;
+    top: 0;
+    background-color: rgb(9, 9, 74);
+    display:flex;
+    vertical-align: top;
+    align-items: center;
+    font-style:bold;
+    position:fixed;
+    
+}
+.av1{
+    font-size: 30px;
+    color:white;
+    padding-left: 130px;
+}
+.bv1{
+font-size:20px;
+padding-left: 130px;
+gap:20px;
+display: flex;
+flex-direction: row;
+}
+.bv1 a{
+    color:white;
+    text-decoration: none;
+}
+.bv1 a:hover{
+    color: gold;
+}
+.butv1{
+    color:black;
+    background-color:orange;
+    height:30px;
+    width:100px;
+    font-size:17px;
+    border-radius:5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 130px;
+
+}
+.b101{
+    height: 60vh;
+    width:100vw;
+    background-image: url(https://images.pexels.com/photos/31070772/pexels-photo-31070772/free-photo-of-university-campus-with-students-in-coral-gables.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-position:center;
+    background-size: cover;
+    text-align: center;
+    top:0;
+    
+}
+.b102{
+    font-size:50px;
+    color:white;
+    padding-top: 150px;
+    font-style: bold;
+}
+.b103{
+    color:white;
+    font-size: 25px;
+    padding-top: 10px;
+     font-style: bold;
+}
+.bg1{
+    height:80vh;
+    width:100vw;
+    background-color:white;
+
+}
+.img2{
+    height:400px;
+    width: 590px;
+    background-image: url(https://www.heathermitts.com/wp-content/uploads/2024/08/Major-Event-Community-Engagement-09113-03_thumb.jpeg);
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.img2,.all2{
+    display: inline-block;
+    vertical-align: top;
+    font-style: bold;
+}
+.all2{
+    padding-left: 50px;
+    margin-top:70px;
+}
+.f{
+    font-size: 20px;
+    font-style: bold;
+    color: rgb(6, 6, 72);
+    padding-left: 20px;
+}
+.p8{
+    font-size: 20px;
+    padding-top: 10px;
+     padding-left: 20px;
+     line-height: 26px;
+}
+.li{
+    font-size: 18px;
+    line-height: 40px;
+}
+.b104{
+    font-size: 37px;
+    color:rgb(6, 6, 73);
+    text-align: center;
+    padding-top: 40px;
+}
+.b105{
+    color:grey;
+    font-size: 19px;
+    line-height: 1px;
+    text-align: center;
+}
+.pa{
+    color:grey;
+    font-size: 17px;
+}
+.bj1{
+    background-color:whitesmoke;
+    height:55vh;
+    width:100vw;
+    margin-top: 30px;
+}
+.bgm3{
+    height: 660px;
+    width:100vw;
+    margin-top: 40px;
+    background-color: rgb(252, 242, 242);
+    padding-top: 50px;
+}
+.h24{
+    font-size: 37px;
+    color:rgb(5, 5, 85);
+    text-align: center;
+
+}
+.pa{
+    color:grey;
+    font-size: 17px;
+}
+.boxa{
+    height: 350px;
+    width: 380px;
+    background-color:white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+     box-shadow: 6px 6px 10px antiquewhite;
+     margin-top: 30px;
+     margin-left: 150px;
+      text-align: center;
+     transition: 0.3s;
+}
+.boxa:hover{
+    transform:translateY(-10px);
+}
+.carda{
+    height: 200px;
+    width:380px;
+    background-image:url(https://img.freepik.com/premium-photo/student-group-coding-marathon-collaboration_1324785-131662.jpg);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+.cona{
+    height: 20px;
+    width: 350px;
+}
+.boxb{
+    height: 350px;
+    width: 380px;
+    background-color:white;
+        border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+     box-shadow: 6px 6px 10px antiquewhite;
+     margin-top: 30px;
+     margin-left: 20px;
+      text-align: center;
+     transition: 0.3s;
+}
+.boxb:hover:hover{
+    transform:translateY(-10px);
+}
+.cardb{
+    height: 200px;
+    width:380px;
+    background-image:url(https://ideaschedule.com/wp-content/uploads/2021/05/poto.jpg);
+        border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+}
+.conb{
+    height: 20px;
+    width: 350px;
+}
+.boxc{
+    height: 350px;
+    width: 380px;
+    background-color:white;
+        border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+     box-shadow: 6px 6px 10px antiquewhite;
+     margin-top: 30px;
+     margin-left: 20px;
+      text-align: center;
+     transition: 0.3s;
+}
+.boxc:hover{
+    transform:translateY(-10px);
+}
+.cardc{
+    height: 200px;
+    width:380px;
+    background-image:url(https://law.ipemgzb.ac.in/wp-content/uploads/2023/06/Entrepreneurship-Club-1024x576-1.jpg);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+}
+.conc{
+    height: 20px;
+    width: 350px;
+}
+.boxa,.boxb,.boxc{
+    display: inline-block;
+    vertical-align: top;
+}
+.d{
+height: 50vh;
+    width:100vw;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 80px;
+     font-style:bold;
+}
+
+.h22{
+    font-size: 40px;
+    color:rgb(5, 5, 67);
+    padding-bottom: 50px;
+
+}
+.btn1,.btn2,.btn3,.btn4{
+    display:inline-block;
+    vertical-align: top;
+
+}
+.btn1{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+    box-shadow: 2px 2px 5px wheat;
+    color:rgb(5, 5, 71);
+    margin-left: 100px;
+    font-size:20px;
+    padding-top: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s
+}
+.btn1:hover{
+    transform:translateY(-10px);
+}
+.p3{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.btn2{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+     color:rgb(5, 5, 71);
+    font-size: 20px;
+    padding-top: 15px;
+    margin-left: 20px;
+     font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s;
+
+}
+.btn2:hover{
+    transform:translateY(-10px);
+}
+.p4{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.btn3{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+    color:rgb(5, 5, 71);
+    font-size: 20px;
+    padding-top: 15px;
+    margin-left: 20px;
+     font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s;
+
+}
+.btn3:hover{
+    transform:translateY(-10px);
+}
+.p5{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.btn4{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+     color:rgb(5, 5, 71);
+    font-size: 20px;
+    padding-top: 15px;
+    margin-left: 20px;
+    margin-right: 100px;
+     font-weight: bold;
+    border-radius: 10px;
+     transition:0.3s;
+}
+.btn4:hover{
+    transform:translateY(-10px);
+}
+.p6{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.bgm31{
+    height: 600px;
+    width:100vw;
+    margin-top: 90px;
+    background-color: rgb(252, 242, 242);
+    padding-top: 50px;
+}
+.h241{
+    font-size: 37px;
+    color:rgb(5, 5, 85);
+    text-align: center;
+
+}
+.pa1{
+    color:grey;
+    font-size: 17px;
+}
+.boxa1{
+    height: 350px;
+    width: 380px;
+    background-color:white;
+    border-radius: 10px;
+     box-shadow: 6px 6px 10px antiquewhite;
+     margin-top: 30px;
+     margin-left: 30px;
+      text-align: center;
+     transition: 0.3s;
+}
+.boxa1:hover{
+    transform:translateY(-10px);
+}
+.carda1{
+    height: 270px;
+    width:380px;
+    background-image:url(https://www.techyv.com/sites/default/2022/06/users/Proofreader7/Techfest-IIT-Bombay-768x430.jpg);
+    border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+.cona1{
+    height: 20px;
+    width: 350px;
+}
+.boxb1{
+    height: 350px;
+    width: 380px;
+    background-color:white;
+        border-radius: 10px;
+     box-shadow: 6px 6px 10px antiquewhite;
+     margin-top: 30px;
+     margin-left: 20px;
+      text-align: center;
+     transition: 0.3s;
+}
+.boxb1:hover{
+    transform:translateY(-10px);
+}
+.cardb1{
+    height: 270px;
+    width:380px;
+    background-image:url(https://tse2.mm.bing.net/th/id/OIP.jRNYLc8vMOlLkviwwh1gYgHaC9?pid=Api&P=0&h=180);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+}
+.conb1{
+    height: 20px;
+    width: 350px;
+}
+.boxc1{
+    height: 350px;
+    width: 380px;
+    background-color:white;
+     border-radius: 10px;
+     box-shadow: 6px 6px 10px antiquewhite;
+     margin-top: 30px;
+     margin-left: 20px;
+      text-align: center;
+     transition: 0.3s;
+}
+.boxc1:hover{
+    transform:translateY(-10px);
+}
+.cardc1{
+    height: 270px;
+    width:380px;
+    background-image:url(https://sdit.ac.in/wp-content/uploads/2024/05/sports-meet1.jpg);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+}
+.conc1{
+    height: 20px;
+    width: 350px;
+}
+.boxa1,.boxb1,.boxc1{
+    display: inline-block;
+    vertical-align: top;
+}
+.d1{
+height: 53vh;
+    width:100vw;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 70px;
+     font-style:bold;
+    
+}
+
+.h221{
+    font-size: 40px;
+    color:rgb(5, 5, 67);
+    font-style: bold;
+
+}
+.h222{
+    font-size: 18px;
+    color:grey;
+    padding-top: 20px;
+}
+.btn11,.btn21,.btn31,.btn41{
+    display:inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+
+}
+.btn11{
+    height: 130px;
+    width:330px;
+    background-color:snow;
+    box-shadow: 2px 2px 5px wheat;
+    color:rgb(5, 5, 71);
+    font-size:20px;
+    font-weight: bold;
+    padding-top: 20px;
+    border-radius: 10px;
+    transition:0.3s
+}
+.btn11:hover{
+    transform:translateY(-10px);
+}
+.p31{
+    font-size: 17px;
+    padding-top: 15px;
+    color:grey;
+}
+.btn21{
+    height: 130px;
+    width:330px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+     color:rgb(5, 5, 71);
+    font-size: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+     font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s;
+
+}
+.btn21:hover{
+    transform:translateY(-10px);
+}
+.p41{
+    font-size: 17px;
+    color:grey;
+    padding-top: 15px;
+}
+.btn31{
+    height: 130px;
+    width:330px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+    color:rgb(5, 5, 71);
+    font-size: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+     font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s;
+
+}
+.btn31:hover{
+    transform:translateY(-10px);
+}
+.p51{
+    font-size: 17px;
+    color:grey;
+    padding-top: 15px;
+}
+.bgm61{
+    height:105vh;
+    width:100vw;
+    background-color: white;
+    margin-top: 50px;
+}
+.l21{
+    font-size: 40px;
+    color:rgb(6, 6, 79);
+    padding-top: 60px;
+}
+.l31{
+    background-image: url(https://images.pexels.com/photos/31297362/pexels-photo-31297362/free-photo-of-spring-day-at-university-of-washington-campus.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    height:250px;
+    width:350px;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    transition: 0.3s;
+}
+.l31:hover{
+    transform:translateY(-10px);
+}
+.l41{
+    background-image: url(https://images.pexels.com/photos/3413097/pexels-photo-3413097.jpeg?cs=srgb&dl=pexels-tomfisk-3413097.jpg&fm=jpg);
+    height:250px;
+    width:350px;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+     margin-left: 50px;
+      margin-top: 50px;
+      transition: 0.3s;
+}
+.l41:hover{
+    transform:translateY(-10px);
+}
+.l51{
+    background-image: url(https://png.pngtree.com/background/20230518/original/pngtree-an-old-brick-university-campus-with-leaves-in-the-background-picture-image_2648142.jpg);
+    height:250px;
+    width:350px;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+     margin-top: 50px;
+     transition: 0.3s;
+}
+.l51:hover{
+    transform:translateY(-10px);
+}
+.l31,.l41,.l51{
+    display: inline-block;
+    vertical-align: top;
+}
+.l61{
+    background-image: url(https://www.cllc.ca/wp-content/uploads/2024/08/4.jpeg);
+    height:250px;
+    width:350px;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    transition: 0.3s;
+}
+.l61:hover{
+    transform:translateY(-10px);
+}
+.l71{
+    background-image: url(https://hmvinternationalschool.com/wp-content/uploads/2024/10/Gallery-Image-35.jpg);
+    height:250px;
+    width:350px;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+     margin-left: 50px;
+      margin-top: 50px;
+      transition: 0.3s;
+}
+.l71:hover{
+    transform:translateY(-10px);
+}
+.l81{
+    background-image: url(https://fravashiacademy.com/wp-content/uploads/2025/05/campus-in-14.jpg);
+    height:250px;
+    width:350px;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+     margin-top: 50px;
+     transition: 0.3s;
+}
+.l81:hover{
+    transform:translateY(-10px);
+}
+.l61,.l71,.l81{
+    display: inline-block;
+    vertical-align: top;
+}
+.bgm5{
+    height:65vh;
+    width:100vw;
+    line-height: 30px;
+    background-color:whitesmoke;
+    margin-top: 80px;
+}
+.j0{
+    font-size: 40px;
+    color: rgb(5, 5, 81);
+    padding-top: 60px;
+    font-style:bold;
+}
+.boxs{
+    height:230px;
+    width:350px;
+    background-color:white;
+    margin-left: 30px;
+    box-shadow:3px 3px 6px wheat;
+    border-radius:10px;
+    margin-top: 60px;
+    padding-top: 10px;
+    margin-left: 30px;
+    transition: 0.3s;
+}
+.boxs:hover{
+    transform:translateY(-10px);
+}
+.k3{
+    height: 100px;
+    width:100px;
+    background-image: url(https://img.freepik.com/premium-photo/portrait-indian-student-guy-smiling-background-university_409674-1149.jpg?w=740);
+    border-radius: 48px;
+    background-position: center;
+    background-size: cover;
+    margin-left:130px;
+}
+.k4{
+    color:navy;
+    font-size: 20px;
+    font-style: bold;
+    padding-top: 10px;
+}
+.k5{
+    color:grey;
+    font-size:15px;
+    padding-top: 5px;
+}
+.boxt{
+    height:230px;
+    width:350px;
+    background-color: white;
+    margin-left: 30px;
+    box-shadow:3px 3px 6px wheat;
+    border-radius:10px;
+    margin-top: 60px;
+    padding-top: 10px;
+    transition: 0.3s;
+}
+.boxt:hover{
+    transform:translateY(-10px);
+}
+.k6{
+    height: 100px;
+    width:100px;
+    background-image: url(https://diy-assets.classplus.co/_next/image?url=https://cdn-diy-public.classplus.co/staging/appConfig/unsplash_3S0Ucv4BDCk_1650537263573.png&w=640&q=75);
+    border-radius: 48px;
+    background-position: center;
+    background-size: cover;
+    margin-left:140px;
+}
+.k7{
+    color:navy;
+    font-size: 20px;
+    font-style: bold;
+    padding-top: 10px;
+}
+.k8{
+    color:grey;
+    font-size:15px;
+    padding-top: 5px;
+}
+.boxu{
+    height:230px;
+    width:350px;
+    background-color: white;
+    margin-left: 30px;
+    box-shadow:3px 3px 6px wheat;
+    border-radius:10px;
+    margin-top: 60px;
+    padding-top: 10px;
+    transition: 0.3s;
+}
+.boxu:hover{
+    transform:translateY(-10px);
+}
+.k9{
+    height: 100px;
+    width:100px;
+    background-image: url(https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/55f224cd-99a1-4b3b-4a15-c76d37505200/public);
+    border-radius: 48px;
+    background-size: cover;
+    background-position: center;
+    margin-left:130px;
+}
+.l0{
+    color:navy;
+    font-size: 20px;
+    font-style: bold;
+    padding-top: 10px;
+}
+.l1{
+    color:grey;
+    font-size:15px;
+    padding-top: 5px;
+}
+.boxs,.boxt,.boxu{
+    display: inline-block;
+    vertical-align: top;
+}
+.jo11{
+    height: 60vh;
+    width:100vw;
+    background-color: white;
+}
+.m1{
+    color: navy;
+    font-size: 37px;
+    padding-top: 60px;
+}
+.m2{
+    color:grey;
+    font-size: 20px;
+    line-height: 0cm;
+}
+.vi{
+    margin-top: 30px;
+    height: 500px;
+    width: 1200px;
+    border-radius: 10px;
+    border:2px solid whitesmoke;
+}
+.d5{
+height: 50vh;
+    width:100vw;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 60px;
+     font-style:bold;
+     margin-top: 350px;
+}
+
+.h225{
+    font-size: 40px;
+    color:rgb(7, 7, 59);
+}
+.p25{
+    color:grey;
+    font-size: 17px;
+}
+.btn15,.btn25,.btn35,.btn45{
+    display:inline-block;
+}
+.btn15{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+    box-shadow: 2px 2px 5px wheat;
+    color:rgb(8, 8, 100);
+    
+    font-size:33px;
+    padding-top: 15px;
+    margin-top:40px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s;
+
+}
+.btn15:hover{
+    transform:translateY(-10px);
+}
+
+.p35{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.btn25{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+    color:rgb(8, 8, 100);
+    font-size: 33px;
+    padding-top: 15px;
+    margin-left: 20px;
+     font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s;
+
+}
+.btn25:hover{
+    transform:translateY(-10px);
+}
+.p45{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.btn35{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+    color:rgb(8, 8, 100);
+    font-size: 33px;
+    padding-top: 15px;
+    margin-left: 20px;
+     font-weight: bold;
+    border-radius: 10px;
+    transition:0.3s;
+
+}
+.btn35:hover{
+    transform:translateY(-10px);
+}
+.p55{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.btn45{
+    height: 100px;
+    width:250px;
+    background-color:snow;
+     box-shadow: 2px 2px 5px wheat;
+    color:rgb(8, 8, 100);
+    font-size: 33px;
+    padding-top: 15px;
+    margin-left: 20px;
+     font-weight: bold;
+    border-radius: 10px;
+     transition:0.3s;
+}
+.btn45:hover{
+    transform:translateY(-10px);
+}
+.p65{
+    font-size: 17px;
+    font-weight:100;
+    color:grey;
+}
+.bgm8e{
+    background-color: rgb(5, 5, 54);
+    height:40vh;
+    width:100vw;
+    padding-top: 70px;
+    align-items: center;
+    
+}
+.c3e{
+    color:gold;
+    width:300px;
+    font-size:20px;
+    font-style: bold;
+    padding-right: 70px;
+}
+.c4e{
+    color:white;
+    font-size: 17px;
+    font-style: bold;
+    padding-top: 20px;
+    line-height: 30px;
+}
+.c5e{
+    color:gold;
+    font-size:20px;
+    font-style: bold;
+    padding-right: 70px;
+    line-height: 30px;
+    
+}
+.c3e,.c5e,{
+    display:inline-block;
+    vertical-align: top;
+}
+.c6e,.c7e,.c8e,.c9e{
+    color:white;
+    line-height: 1px;
+    font-size: 17px;
+    font-style: bold;
+}
+.c6e{
+    padding-top: 30px;
+}
+.v1e{
+    color:gold;
+    width:100px;
+    font-size:20px;
+    padding-right: 70px;
+    line-height: 30px;
+    
+}
+.c3e,.c5e,.v1e,.v2xe{
+    display:inline-block;
+    vertical-align: top;
+
+}
+.v21e,.v23e,.v24e,.v25e{
+    color:white;
+    font-size: 15px;
+    line-height: 1px;
+}
+.v21e{
+    padding-top: 30px;
+}
+.v2xe{
+    color:gold;
+    font-size:20px;
+    padding-left: 30px;
+    margin-right: 60px;
+    line-height: 30px;
+}
+.menue{
+    color: white;
+    padding-top:20px;
+    font-size: 17px;
+    font-style: bold;
+}
+.lastb{
+    height:5vh;
+    width:100vw;
+    background-color: rgb(5, 5, 54);
+    color:white;
+    padding-top: 30px;
+    border-top: 1px solid white;
+    margin-top: 30px;
+}
